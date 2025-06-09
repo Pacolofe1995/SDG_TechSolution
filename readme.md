@@ -71,9 +71,16 @@ The technologies used are modern, Python-based frameworks (FastAPI, Streamlit), 
 
 ---
 
-## ▶️ How to Run the System
+## How to Run the System
 
 To test the full application, both the backend and frontend must be running in parallel.
+<div style="background-color: #fff3cd; color: #856404; border: 1px solid #ffeeba; padding: 15px; border-radius: 8px; font-family: sans-serif; margin: 20px 0;">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+    ⚠️ <span><strong>Attention:</strong> It is very important to make sure that we have selected the correct environment in VSCode.</span>
+  </div>
+</div>
+
+![Ejemplo](mediaFiles\venv.png)
 
 ### 1. Backend Setup (FastAPI)
 
@@ -121,7 +128,7 @@ Once both services are running, you can:
 * Trigger simulated notifications.
 
 <video width="1280" height="720" controls>
-  <source src="example.mp4" type="video/mp4">
+  <source src="mediaFiles\example.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 
