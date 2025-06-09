@@ -6,7 +6,7 @@ import time
 # ✅ This must be the first Streamlit call
 st.set_page_config(page_title="SDG-Group-Topics", page_icon="🔐", layout="centered")
 
-# 🔒 Hide sidebar after set_page_config
+# 🔒 Hide sidebar after set_page_config.
 st.markdown("""
     <style>
         [data-testid="stSidebar"] {
