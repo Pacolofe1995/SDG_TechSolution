@@ -80,7 +80,7 @@ To test the full application, both the backend and frontend must be running in p
   </div>
 </div>
 
-![Ejemplo](mediaFiles\venv.png)
+![Ejemplo](./mediaFiles/venv.png)
 
 ### 1. Backend Setup (FastAPI)
 
@@ -128,7 +128,7 @@ Once both services are running, you can:
 * Trigger simulated notifications.
 
 <video width="1280" height="720" controls>
-  <source src="mediaFiles\example.mp4" type="video/mp4">
+  <source src="./mediaFiles/example.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 

@@ -125,7 +125,7 @@ To start the API in VSCode, follow the steps in the video below:
 </div>
 
 <video width="1280" height="720" controls>
-  <source src="resources/puestaenmarcha.mp4" type="video/mp4">
+  <source src="./resources/puestaenmarcha.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 
